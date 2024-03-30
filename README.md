@@ -1,7 +1,7 @@
-Hoy !!
+Hoy!!
 
 That's a caesar cipher.
-It's ugly
+It's ugly.
 
 But it works.
 
